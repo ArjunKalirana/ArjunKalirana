@@ -185,8 +185,7 @@ ESP32 Sensors → LoRa Mesh → MQTT Broker
 | 🏅 | **Multiple national hackathon shortlists** |
 | 🔥 | **1,813 GitHub contributions** · last year |
 | 💻 | **486+ LeetCode** · Top 30.92% globally |
-| 🧩 | **Joint Secretary** · AIT Magazine Board |
-| ✍️ | **Joint Secretary** · AIT Spiritual Club |
+
 
 <br/>
 
