@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Arjun%20Choudhary&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20Systems%20%7C%20Full%20Stack%20Engineer%20%7C%20RAG%20Builder&descAlignY=65&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Arjun%20Choudhary&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20%7C%20Full%20Stack%20Engineer%20%7C%20RAG%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&duration=3000\&pause=1000\&color=0EA5E9\&center=true\&vCenter=true\&width=650\&lines=Building+RAG+%2B+LLM+systems;Full+Stack+Engineer+\(FastAPI+%7C+React\);AI+%2B+Real-World+Systems;Top+7%2F800%2B+AI+Challenge;486%2B+LeetCode+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&duration=3000\&pause=1000\&color=0EA5E9\&center=true\&vCenter=true\&width=700\&lines=Architecting+RAG+%2B+LLM+Systems;Building+Scalable+Full+Stack+Apps;AI+%2B+Real-World+Systems;Top+7%2F800%2B+AI+Challenge;486%2B+LeetCode+Problems)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,85 +14,76 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:as6641402@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ArjunKalirana)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/ArjunKal/)
+![Profile Views](https://komarev.com/ghpvc/?username=ArjunKalirana\&style=for-the-badge\&color=0ea5e9)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## ⚡ Quick Overview
 
-```python
-class Arjun:
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ArjunKalirana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunKalirana&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
-    focus = ["AI Systems", "RAG Pipelines", "Full Stack", "IoT"]
+---
 
-    building = [
-        "LearnTrace",
-        "Advanced RAG systems",
-        "AI-powered scalable applications"
-    ]
+## 🧠 Technical Profile
 
-    achievements = [
-        "🥇 Catalyst Winner",
-        "🧠 AI Grand Challenge Top 7/800+",
-        "⭐ HackerRank 6★",
-        "💼 Infosys Intern"
-    ]
-
-    stack = ["FastAPI", "React", "Neo4j", "FAISS", "PostgreSQL"]
-
-    mindset = "Build systems, not just projects"
+```json
+{
+  "focus": ["AI Systems", "RAG Pipelines", "Vector Databases", "Full Stack"],
+  "core_stack": ["FastAPI", "React", "PostgreSQL", "Neo4j", "FAISS"],
+  "currently_building": ["LearnTrace", "Advanced RAG systems"],
+  "achievements": [
+    "Catalyst Idea Pitching — Winner",
+    "MIT-ADT AI Challenge — Top 7/800+",
+    "HackerRank — 6★ Algorithms"
+  ],
+  "problem_solving": "486+ LeetCode problems solved"
+}
 ```
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Impact Projects
 
 ### 🧠 LearnTrace
 
 AI-powered learning intelligence platform
 
-* Multi-role system + OTP auth
+* Multi-role system + secure authentication
 * AI certificate extraction (Groq Vision)
-* 3D dashboards + analytics + timelines
+* Analytics dashboards + timeline tracking
 * PostgreSQL · Prisma · Cloudinary
-* **Production deployed**
+* 🚀 Production deployed
 
 ---
 
 ### 🤖 ResearchAI
 
-High-performance RAG-based research assistant
+RAG-based academic assistant for research workflows
 
-* Multi-paper semantic search (FAISS)
-* Llama 3 (Groq) for synthesis
+* Multi-document semantic search (FAISS)
+* Llama 3 (Groq) integration
 * Neo4j knowledge graph
-* Real-time streaming responses
+* Real-time AI responses
 
 ---
 
 ### 🌱 KrishiSarth
 
-AI + IoT precision agriculture system
+AI + IoT precision irrigation system
 
 * LSTM + Random Forest decision engine
 * Real-time sensor + MQTT pipeline
-* Full-stack control dashboard
-* Cloud + distributed system
+* Scalable backend + analytics
+* Cloud-integrated system
 
 ---
 
-## 🏆 Achievements
-
-* 🥇 Catalyst Idea Pitching — Winner
-* 🧠 AI Grand Challenge — Top 7 / 800+
-* ⭐ HackerRank — 6★ Algorithms
-* 🔥 1800+ GitHub contributions
-* 💻 486+ LeetCode problems
-
----
-
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 **AI / Backend**
 Python · FastAPI · FAISS · Neo4j · RAG · LLM
@@ -104,30 +91,38 @@ Python · FastAPI · FAISS · Neo4j · RAG · LLM
 **Frontend**
 React · TypeScript · Tailwind
 
-**Systems / Infra**
+**Databases & Infra**
 PostgreSQL · MongoDB · Redis · Docker · AWS
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Performance Metrics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArjunKalirana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunKalirana&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunKalirana&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<img src="https://leetcard.jacoblin.cool/ArjunKal?theme=dark&font=Fira%20Code" width="50%" />
+</div>
 
 ---
 
-## 💻 LeetCode
+## 📈 Contribution Activity
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/ArjunKal?theme=dark&font=Fira%20Code" width="60%"/>
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunKalirana&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://github.com/ArjunKalirana/ArjunKalirana/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 
 ---
 
 <div align="center">
 
-⭐ *Building intelligent systems that solve real-world problems*
+💡 *Building intelligent systems that merge AI with real-world impact*
 
 </div>
