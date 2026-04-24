@@ -311,14 +311,73 @@ ESP32 Sensors → LoRa Mesh → MQTT Broker
 > 🤖 Auto-updates every day via [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) GitHub Action
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 28.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 487 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
 ```text
-TypeScript   ████████████░░░░░░░░░░░░░   51.0 %
-Python       ████████░░░░░░░░░░░░░░░░░   20.2 %
-JavaScript   ████████░░░░░░░░░░░░░░░░░   19.8 %
-HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░░░░    5.5 %
-C++          █░░░░░░░░░░░░░░░░░░░░░░░░    2.2 %
-Other        █░░░░░░░░░░░░░░░░░░░░░░░░    1.3 %
+🌞 Morning                197 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+🌆 Daytime                378 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+🌃 Evening                1555 commits        █████████████████░░░░░░░░   66.34 % 
+🌙 Night                  214 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 ```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Tuesday                  307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Wednesday                307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Thursday                 432 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Friday                   359 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Saturday                 264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Sunday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ArjunKalirana/ArjunKalirana/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/04/2026 14:40:31 UTC
 <!--END_SECTION:waka-->
 
 <br/>
