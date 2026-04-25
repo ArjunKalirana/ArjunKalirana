@@ -20,7 +20,7 @@
 <!-- ═══════════════════════════ SOCIAL BADGES ════════════════════════════ -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/arjunchoudhary-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/arjun-choudhary-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:as6641402@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/ArjunKalirana"><img src="https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=FFB000"/></a>
 <a href="https://leetcode.com/u/ArjunKal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
@@ -403,7 +403,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/arjunchoudhary-">
+<a href="https://www.linkedin.com/in/arjun-choudhary-">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
