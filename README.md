@@ -310,15 +310,13 @@ ESP32 Sensors → LoRa Mesh → MQTT Broker
 > 🤖 Auto-updates every day via [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) GitHub Action
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 32.8 kB Used in GitHub's Storage 
+> 📦 28.8 kB Used in GitHub's Storage 
  > 
-> 🏆 591 Contributions in the Year 2026
+> 🏆 592 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -376,7 +374,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ArjunKalirana/ArjunKalirana/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 02:59:16 UTC
+ Last Updated on 22/05/2026 02:58:59 UTC
 <!--END_SECTION:waka-->
 
 <br/>
