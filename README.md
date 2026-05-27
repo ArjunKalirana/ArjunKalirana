@@ -316,7 +316,7 @@ ESP32 Sensors → LoRa Mesh → MQTT Broker
 
 **🐱 My GitHub Data** 
 
-> 📦 30.1 kB Used in GitHub's Storage 
+> 📦 30.4 kB Used in GitHub's Storage 
  > 
 > 🏆 625 Contributions in the Year 2026
  > 
@@ -363,7 +363,7 @@ No Activity Tracked This Week
 
 ```text
 JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
@@ -376,7 +376,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ArjunKalirana/ArjunKalirana/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2026 02:52:27 UTC
+ Last Updated on 27/05/2026 03:30:42 UTC
 <!--END_SECTION:waka-->
 
 <br/>
