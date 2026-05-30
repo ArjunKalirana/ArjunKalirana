@@ -310,13 +310,15 @@ ESP32 Sensors → LoRa Mesh → MQTT Broker
 > 🤖 Auto-updates every day via [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) GitHub Action
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 31.0 kB Used in GitHub's Storage 
  > 
-> 🏆 630 Contributions in the Year 2026
+> 🏆 659 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -324,6 +326,39 @@ ESP32 Sensors → LoRa Mesh → MQTT Broker
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                224 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+🌆 Daytime                405 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+🌃 Evening                1633 commits        ████████████████░░░░░░░░░   65.29 % 
+🌙 Night                  239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Tuesday                  341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Wednesday                321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Thursday                 449 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Friday                   399 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Saturday                 287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Sunday                   394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -341,7 +376,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ArjunKalirana/ArjunKalirana/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 02:54:57 UTC
+ Last Updated on 30/05/2026 02:48:14 UTC
 <!--END_SECTION:waka-->
 
 <br/>
