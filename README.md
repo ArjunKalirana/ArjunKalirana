@@ -314,7 +314,7 @@ ESP32 Sensors → LoRa Mesh → MQTT Broker
 
 **🐱 My GitHub Data** 
 
-> 📦 44.5 kB Used in GitHub's Storage 
+> 📦 44.7 kB Used in GitHub's Storage 
  > 
 > 🏆 1,004 Contributions in the Year 2026
  > 
@@ -324,39 +324,6 @@ ESP32 Sensors → LoRa Mesh → MQTT Broker
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                304 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-🌆 Daytime                683 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-🌃 Evening                1772 commits        ██████████████░░░░░░░░░░░   56.83 % 
-🌙 Night                  359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   457 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Tuesday                  533 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Wednesday                356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Thursday                 552 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Friday                   450 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Saturday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Sunday                   447 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -374,7 +341,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ArjunKalirana/ArjunKalirana/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:25:23 UTC
+ Last Updated on 25/07/2026 02:23:59 UTC
 <!--END_SECTION:waka-->
 
 <br/>
