@@ -310,11 +310,13 @@ ESP32 Sensors → LoRa Mesh → MQTT Broker
 > 🤖 Auto-updates every day via [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) GitHub Action
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 44.7 kB Used in GitHub's Storage 
+> 📦 45.0 kB Used in GitHub's Storage 
  > 
 > 🏆 1,004 Contributions in the Year 2026
  > 
@@ -324,6 +326,39 @@ ESP32 Sensors → LoRa Mesh → MQTT Broker
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                290 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+🌆 Daytime                627 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+🌃 Evening                1772 commits        ███████████████░░░░░░░░░░   58.14 % 
+🌙 Night                  359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   429 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Tuesday                  498 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Wednesday                356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Thursday                 545 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Friday                   450 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Saturday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Sunday                   447 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -341,7 +376,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ArjunKalirana/ArjunKalirana/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:23:59 UTC
+ Last Updated on 26/07/2026 02:29:46 UTC
 <!--END_SECTION:waka-->
 
 <br/>
