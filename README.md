@@ -316,13 +316,13 @@ ESP32 Sensors → LoRa Mesh → MQTT Broker
 
 **🐱 My GitHub Data** 
 
-> 📦 43.9 kB Used in GitHub's Storage 
+> 📦 44.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,142 Contributions in the Year 2026
+> 🏆 1,144 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 28 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -368,11 +368,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
@@ -382,7 +382,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ArjunKalirana/ArjunKalirana/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 03:13:54 UTC
+ Last Updated on 15/09/2026 03:15:46 UTC
 <!--END_SECTION:waka-->
 
 <br/>
